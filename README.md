@@ -97,14 +97,28 @@ print("For population = 70000,we predict a profit of $"+str(round(predict2,0)))
 ```
 ## Output:
 
-![ml31](https://github.com/Dhanudhanaraj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119218812/6e8aea4f-5f04-4c74-9d45-e0a90be8c26f)
+### Profit Prediction graph
+![Screenshot from 2023-10-03 19-03-14](https://github.com/Dhanudhanaraj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119218812/292af1a5-2c6e-4365-b528-ed19a5a4a67b)
 
+### Compute Cost Value
+![Screenshot from 2023-10-03 19-03-37](https://github.com/Dhanudhanaraj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119218812/af34ebd8-0a85-45f8-a916-7eb7ac3ae330)
 
-![ml32](https://github.com/Dhanudhanaraj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119218812/c294b428-b571-4d8f-9389-98234978ed01)
+### h(x) Value
+![Screenshot from 2023-10-03 19-03-52](https://github.com/Dhanudhanaraj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119218812/f0fbfa06-ad9b-4fe8-9e0c-a39bb4882918)
 
-![ml33](https://github.com/Dhanudhanaraj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119218812/1df3e131-707f-4d35-b9ac-eda180835aa9)
+### Cost function using Gradient Descent Graph
+![Screenshot from 2023-10-03 19-04-14](https://github.com/Dhanudhanaraj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119218812/1729efca-2c22-4796-9fef-54056eb1cce6)
 
-![ml34](https://github.com/Dhanudhanaraj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119218812/417c5f22-59cc-4cd5-93d0-be913ab87007)
+### Profit Prediction Graph
+![Screenshot from 2023-10-03 19-04-31](https://github.com/Dhanudhanaraj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119218812/7abcca14-e5cb-472f-ad94-573f791b5896)
+
+### Profit for the Population 35,000
+
+![Screenshot from 2023-10-03 19-04-52](https://github.com/Dhanudhanaraj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119218812/b294a446-d163-46d1-8bde-a19f82fa384f)
+
+### Profit for the Population 70,000
+
+![Screenshot from 2023-10-03 19-04-59](https://github.com/Dhanudhanaraj/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119218812/30952a5d-17d1-4806-8ea0-891d7aecdc10)
 
 ## Result:
 
